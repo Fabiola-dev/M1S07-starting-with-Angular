@@ -1,0 +1,73 @@
+.contact {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+span {
+    margin: 10px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
+.btn1 {
+    border-color: #f1c40f;
+    color: #000;
+    background-image: -webkit-linear-gradient(45deg, #f1c40f 50%, transparent 50%);
+    background-image: linear-gradient(45deg, #f1c40f 50%, transparent 50%);
+    background-position: 100%;
+    background-size: 400%;
+    -webkit-transition: background 300ms ease-in-out;
+    transition: background 300ms ease-in-out;
+    text-decoration: none;
+    display: inline;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    padding: 15px;
+}
+
+.btn1:hover {
+    background-position: 0;
+}
+
+.btn2 {
+    border-color: #f1c40f;
+    color: #000;
+    background-image: -webkit-linear-gradient(45deg, #f1c40f 50%, transparent 50%);
+    background-image: linear-gradient(45deg, #f1c40f 50%, transparent 50%);
+    background-position: 100%;
+    background-size: 400%;
+    -webkit-transition: background 300ms ease-in-out;
+    transition: background 300ms ease-in-out;
+    text-decoration: none;
+    display: inline;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    padding: 15px;
+}
+
+.btn2:hover {
+    background-position: 0;
+}
+
+.btn3 {
+    border-color: #f1c40f;
+    color: #000;
+    background-image: -webkit-linear-gradient(45deg, #f1c40f 50%, transparent 50%);
+    background-image: linear-gradient(45deg, #f1c40f 50%, transparent 50%);
+    background-position: 100%;
+    background-size: 400%;
+    -webkit-transition: background 300ms ease-in-out;
+    transition: background 300ms ease-in-out;
+    text-decoration: none;
+    display: inline;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    padding: 15px;
+}
+
+.btn3:hover {
+    background-position: 0;
+}
